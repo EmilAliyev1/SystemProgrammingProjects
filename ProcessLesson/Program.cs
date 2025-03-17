@@ -4,7 +4,7 @@
 
 Console.WriteLine($"Process with id: {Process.GetCurrentProcess().Id} started");
 
-string childApp = "C:\\Users\\Aliev_uj65\\RiderProjects\\SystemProgrammingProjects\\ChildProcess\\bin\\Debug\\net8.0\\ChildProcess.exe";
+string childApp = "/home/emiloff/RiderProjects/SystemProgrammingProjects/ChildProcess/bin/Debug/net8.0/ChildProcess";
 
 ProcessStartInfo psi = new ProcessStartInfo
 {

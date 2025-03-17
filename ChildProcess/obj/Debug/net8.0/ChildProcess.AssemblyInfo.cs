@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChildProcess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a8d2c67df4673eee09e0ee7cc29d35cab9d9e0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b785e30e39041856c5d63ebdb735ede2bce8441b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChildProcess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChildProcess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
