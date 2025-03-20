@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/emiloff/RiderProjects/SystemProgrammingProjects/ChildProcess/ChildProcess.csproj": {}
+    "/home/emiloff/Documents/C#Projects/ChildProcess/ChildProcess.csproj": {}
   },
   "projects": {
-    "/home/emiloff/RiderProjects/SystemProgrammingProjects/ChildProcess/ChildProcess.csproj": {
+    "/home/emiloff/Documents/C#Projects/ChildProcess/ChildProcess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/emiloff/RiderProjects/SystemProgrammingProjects/ChildProcess/ChildProcess.csproj",
+        "projectUniqueName": "/home/emiloff/Documents/C#Projects/ChildProcess/ChildProcess.csproj",
         "projectName": "ChildProcess",
-        "projectPath": "/home/emiloff/RiderProjects/SystemProgrammingProjects/ChildProcess/ChildProcess.csproj",
+        "projectPath": "/home/emiloff/Documents/C#Projects/ChildProcess/ChildProcess.csproj",
         "packagesPath": "/home/emiloff/.nuget/packages/",
-        "outputPath": "/home/emiloff/RiderProjects/SystemProgrammingProjects/ChildProcess/obj/",
+        "outputPath": "/home/emiloff/Documents/C#Projects/ChildProcess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/emiloff/.nuget/NuGet/NuGet.Config"

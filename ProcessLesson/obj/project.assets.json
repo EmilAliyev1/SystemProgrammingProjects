@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/emiloff/RiderProjects/SystemProgrammingProjects/ProcessLesson/ProcessLesson.csproj",
+      "projectUniqueName": "/home/emiloff/Documents/C#Projects/ProcessLesson/ProcessLesson.csproj",
       "projectName": "ProcessLesson",
-      "projectPath": "/home/emiloff/RiderProjects/SystemProgrammingProjects/ProcessLesson/ProcessLesson.csproj",
+      "projectPath": "/home/emiloff/Documents/C#Projects/ProcessLesson/ProcessLesson.csproj",
       "packagesPath": "/home/emiloff/.nuget/packages/",
-      "outputPath": "/home/emiloff/RiderProjects/SystemProgrammingProjects/ProcessLesson/obj/",
+      "outputPath": "/home/emiloff/Documents/C#Projects/ProcessLesson/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/emiloff/.nuget/NuGet/NuGet.Config"
