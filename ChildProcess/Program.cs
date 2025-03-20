@@ -35,6 +35,20 @@
             Console.WriteLine("Incorrect amount of args");
         }
 
+        string filePath = args[0];
+        string searchWord = args[1];
+
+        if (!File.Exists(filePath))
+        {
+            Console.WriteLine("File not found.");
+            return;
+        }
+
+        string text = File.ReadAllText(args[0]);
+        int count = text.Split(args[1]).Length - 1;
+
+        Console.WriteLine($"\"{args[1]}\" appears {count} times.");
+
         #endregion
         
     }
